@@ -1,3 +1,3 @@
 # gitalk
 
-repository to store bolg's comments.
+repository to store the blog's comments.
